@@ -1,0 +1,122 @@
+@startuml
+
+namespace nts {
+    Abstract Gate {
+        #std::map<int, nts::Tristate> _input
+        #std::map<int, nts::Tristate> _output
+    }
+    class Or {
+        nts::Tristate or_gate(std::vector _input)
+    }
+    class Nor {
+        nts::Tristate nor_gate(std::vector _input)
+    }
+    class Not {
+        nts::Tristate not_gate(std::vector _input)
+    }
+    class And {
+        nts::Tristate and_gate(std::vector _input)
+    }
+    class Nand {
+        nts::Tristate nand_gate(std::vector _input)
+    }
+    class Xor {
+        nts::Tristate xor_gate(std::vector _input)
+    }
+    interface IComponent {
+        virtual nts::Tristate compute(size_t pin)
+        virtual void setLink(size_t pin, IComponent &other, size_t otherPin)
+        virtual void dump()
+    }
+    abstract Component {
+        nts::Tristate compute(size_t pin)
+        void setLink(size_t pin, IComponent &other, size_t otherPin)
+        void dump()
+        #std::vector<Gate> _gate
+        #std::map<int, std::pair<Component *, int> _link
+        #std::string _name
+        #std::string _type
+    }
+    abstract SComponent {
+        nts::Tristate compute(size_t pin)
+        void setLink(size_t pin, IComponent &other, size_t otherPin)
+        void dump()
+        #std::string _name
+        #std::string _type
+        #std::pair<nts::IComponent *, size_t> _link
+        #nts::Tristate _pin;
+
+    }
+    enum Tristate {
+        UNDEFINED = -true
+        TRUE = true
+        FALSE = false
+    }
+    class Input {
+    }
+    class Output {
+    }
+    class Clock {
+    }
+    class True {
+    }
+    class False {
+    }
+    class 4001 {
+    }
+    class 4008 {
+        4 bit adder
+    }
+    class 4011 {
+    }
+    class 4013 {
+        #4 inputs pour 1 D-Type
+    }
+    class 4017 {
+        #input 13 14 15
+        #output dans le désordre
+    }
+    class 4030 {
+    }
+    class 4040 {
+    }
+    class 4069 {
+    }
+    class 4071 {
+    }
+    class 4081 {
+    }
+    class 4094 {
+        A FAIRE
+    }
+    class 4503 {
+    }
+    std::exeption <|-- Component
+    IComponent <|-- Component
+    IComponent <|-- SComponent
+    Component <|---- 4001
+    Component <|---- 4008
+    Component <|---- 4011
+    Component <|---- 4013
+    Component <|---- 4017
+    Component <|---- 4030
+    Component <|---- 4040
+    Component <|---- 4069
+    Component <|---- 4071
+    Component <|---- 4081
+    Component <|---- 4094
+    Component <|---- 4503
+    SComponent <|---- Input
+    SComponent <|---- Output
+    SComponent <|---- Clock
+    SComponent <|---- True
+    SComponent <|---- False
+    Gate <|-- Or
+    Gate <|-- And
+    Gate <|-- Xor
+    Gate <|-- Nand
+    Gate <|-- Nor
+    Gate <|-- Not
+}
+@enduml
+using map_t = const std::map<std::string type, std::function<Component*(std::string)>>;

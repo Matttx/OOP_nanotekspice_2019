@@ -1,0 +1,1042 @@
+[
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Werror", 
+   "-Iinclude", 
+   "-c", 
+   "-o", 
+   "src//component/c_4008.o", 
+   "src//component/c_4008.cpp"
+  ], 
+  "file": "src//component/c_4008.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/prompt.o", 
+   "src/prompt.cpp"
+  ], 
+  "file": "src/prompt.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/circuit/Circuit.o", 
+   "src/circuit/Circuit.cpp"
+  ], 
+  "file": "src/circuit/Circuit.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Werror", 
+   "-Iinclude", 
+   "-c", 
+   "-o", 
+   "src//component/c_4094.o", 
+   "src//component/c_4094.cpp"
+  ], 
+  "file": "src//component/c_4094.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_2716.o", 
+   "src/component/c_2716.cpp"
+  ], 
+  "file": "src/component/c_2716.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Werror", 
+   "-Iinclude", 
+   "-c", 
+   "-o", 
+   "src//component/c_4081.o", 
+   "src//component/c_4081.cpp"
+  ], 
+  "file": "src//component/c_4081.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/gate/Nand.o", 
+   "src/gate/Nand.cpp"
+  ], 
+  "file": "src/gate/Nand.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_4001.o", 
+   "src/component/c_4001.cpp"
+  ], 
+  "file": "src/component/c_4001.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/error_handling/chipset_name.o", 
+   "src/error_handling/chipset_name.cpp"
+  ], 
+  "file": "src/error_handling/chipset_name.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_clock.o", 
+   "src/component/c_clock.cpp"
+  ], 
+  "file": "src/component/c_clock.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Werror", 
+   "-Iinclude", 
+   "-c", 
+   "-o", 
+   "src//component/c_4071.o", 
+   "src//component/c_4071.cpp"
+  ], 
+  "file": "src//component/c_4071.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_output.o", 
+   "src/component/c_output.cpp"
+  ], 
+  "file": "src/component/c_output.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_4008.o", 
+   "src/component/c_4008.cpp"
+  ], 
+  "file": "src/component/c_4008.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/gate/Nor.o", 
+   "src/gate/Nor.cpp"
+  ], 
+  "file": "src/gate/Nor.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_4011.o", 
+   "src/component/c_4011.cpp"
+  ], 
+  "file": "src/component/c_4011.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/exception/NotLinkedOutput.o", 
+   "src/exception/NotLinkedOutput.cpp"
+  ], 
+  "file": "src/exception/NotLinkedOutput.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/exception/UndeclaredChipset.o", 
+   "src/exception/UndeclaredChipset.cpp"
+  ], 
+  "file": "src/exception/UndeclaredChipset.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Werror", 
+   "-Iinclude", 
+   "-c", 
+   "-o", 
+   "src//gate/Gate.o", 
+   "src//gate/Gate.cpp"
+  ], 
+  "file": "src//gate/Gate.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/error_handling/error_handling.o", 
+   "src/error_handling/error_handling.cpp"
+  ], 
+  "file": "src/error_handling/error_handling.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/Component.o", 
+   "src/component/Component.cpp"
+  ], 
+  "file": "src/component/Component.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/exception/NonExistingPin.o", 
+   "src/exception/NonExistingPin.cpp"
+  ], 
+  "file": "src/exception/NonExistingPin.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Werror", 
+   "-Iinclude", 
+   "-c", 
+   "-o", 
+   "src//component/c_4069.o", 
+   "src//component/c_4069.cpp"
+  ], 
+  "file": "src//component/c_4069.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/exception/NoOutput.o", 
+   "src/exception/NoOutput.cpp"
+  ], 
+  "file": "src/exception/NoOutput.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_true.o", 
+   "src/component/c_true.cpp"
+  ], 
+  "file": "src/component/c_true.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Werror", 
+   "-Iinclude", 
+   "-c", 
+   "-o", 
+   "src//component/c_4030.o", 
+   "src//component/c_4030.cpp"
+  ], 
+  "file": "src//component/c_4030.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/exception/InvalidChipset.o", 
+   "src/exception/InvalidChipset.cpp"
+  ], 
+  "file": "src/exception/InvalidChipset.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/gate/Or.o", 
+   "src/gate/Or.cpp"
+  ], 
+  "file": "src/gate/Or.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_4094.o", 
+   "src/component/c_4094.cpp"
+  ], 
+  "file": "src/component/c_4094.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "main.o", 
+   "main.cpp"
+  ], 
+  "file": "main.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Werror", 
+   "-Iinclude", 
+   "-c", 
+   "-o", 
+   "src//component/c_4017.o", 
+   "src//component/c_4017.cpp"
+  ], 
+  "file": "src//component/c_4017.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_4071.o", 
+   "src/component/c_4071.cpp"
+  ], 
+  "file": "src/component/c_4071.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/exception/LinkWrongFormat.o", 
+   "src/exception/LinkWrongFormat.cpp"
+  ], 
+  "file": "src/exception/LinkWrongFormat.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/gate/Gate.o", 
+   "src/gate/Gate.cpp"
+  ], 
+  "file": "src/gate/Gate.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Werror", 
+   "-Iinclude", 
+   "-c", 
+   "-o", 
+   "src//component/c_4514.o", 
+   "src//component/c_4514.cpp"
+  ], 
+  "file": "src//component/c_4514.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/error_handling/pin_error.o", 
+   "src/error_handling/pin_error.cpp"
+  ], 
+  "file": "src/error_handling/pin_error.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/exception/SameChipsetName.o", 
+   "src/exception/SameChipsetName.cpp"
+  ], 
+  "file": "src/exception/SameChipsetName.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/SComponent.o", 
+   "src/component/SComponent.cpp"
+  ], 
+  "file": "src/component/SComponent.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_input.o", 
+   "src/component/c_input.cpp"
+  ], 
+  "file": "src/component/c_input.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_4013.o", 
+   "src/component/c_4013.cpp"
+  ], 
+  "file": "src/component/c_4013.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Werror", 
+   "-Iinclude", 
+   "-c", 
+   "-o", 
+   "src//component/Component.o", 
+   "src//component/Component.cpp"
+  ], 
+  "file": "src//component/Component.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_4030.o", 
+   "src/component/c_4030.cpp"
+  ], 
+  "file": "src/component/c_4030.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/error_handling/linked_output.o", 
+   "src/error_handling/linked_output.cpp"
+  ], 
+  "file": "src/error_handling/linked_output.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_false.o", 
+   "src/component/c_false.cpp"
+  ], 
+  "file": "src/component/c_false.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_4801.o", 
+   "src/component/c_4801.cpp"
+  ], 
+  "file": "src/component/c_4801.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_4017.o", 
+   "src/component/c_4017.cpp"
+  ], 
+  "file": "src/component/c_4017.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Werror", 
+   "-Iinclude", 
+   "-c", 
+   "-o", 
+   "src//component/c_2716.o", 
+   "src//component/c_2716.cpp"
+  ], 
+  "file": "src//component/c_2716.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Werror", 
+   "-Iinclude", 
+   "-c", 
+   "-o", 
+   "src//component/c_4040.o", 
+   "src//component/c_4040.cpp"
+  ], 
+  "file": "src//component/c_4040.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/gate/Not.o", 
+   "src/gate/Not.cpp"
+  ], 
+  "file": "src/gate/Not.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_4040.o", 
+   "src/component/c_4040.cpp"
+  ], 
+  "file": "src/component/c_4040.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_4514.o", 
+   "src/component/c_4514.cpp"
+  ], 
+  "file": "src/component/c_4514.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Werror", 
+   "-Iinclude", 
+   "-c", 
+   "-o", 
+   "src//component/c_4013.o", 
+   "src//component/c_4013.cpp"
+  ], 
+  "file": "src//component/c_4013.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Werror", 
+   "-Iinclude", 
+   "-c", 
+   "-o", 
+   "src//component/c_4001.o", 
+   "src//component/c_4001.cpp"
+  ], 
+  "file": "src//component/c_4001.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/gate/Xor.o", 
+   "src/gate/Xor.cpp"
+  ], 
+  "file": "src/gate/Xor.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/exception/UnknownFile.o", 
+   "src/exception/UnknownFile.cpp"
+  ], 
+  "file": "src/exception/UnknownFile.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/exception/NoFilePart.o", 
+   "src/exception/NoFilePart.cpp"
+  ], 
+  "file": "src/exception/NoFilePart.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_4081.o", 
+   "src/component/c_4081.cpp"
+  ], 
+  "file": "src/component/c_4081.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Werror", 
+   "-Iinclude", 
+   "-c", 
+   "-o", 
+   "src//component/c_4011.o", 
+   "src//component/c_4011.cpp"
+  ], 
+  "file": "src//component/c_4011.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/exception/TooManyElementLink.o", 
+   "src/exception/TooManyElementLink.cpp"
+  ], 
+  "file": "src/exception/TooManyElementLink.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/gate/And.o", 
+   "src/gate/And.cpp"
+  ], 
+  "file": "src/gate/And.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/error_handling/input_value.o", 
+   "src/error_handling/input_value.cpp"
+  ], 
+  "file": "src/error_handling/input_value.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/exception/InputNoValue.o", 
+   "src/exception/InputNoValue.cpp"
+  ], 
+  "file": "src/exception/InputNoValue.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/parser/parser.o", 
+   "src/parser/parser.cpp"
+  ], 
+  "file": "src/parser/parser.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Werror", 
+   "-Iinclude", 
+   "-c", 
+   "-o", 
+   "src//gate/Or.o", 
+   "src//gate/Or.cpp"
+  ], 
+  "file": "src//gate/Or.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Iinclude", 
+   "-g3", 
+   "-c", 
+   "-o", 
+   "src/component/c_4069.o", 
+   "src/component/c_4069.cpp"
+  ], 
+  "file": "src/component/c_4069.cpp"
+ }, 
+ {
+  "directory": "/home/matteo/delivery/2019-2020/OOP_2019/OOP_nanotekspice_2019", 
+  "arguments": [
+   "g++", 
+   "-W", 
+   "-Wall", 
+   "-Wextra", 
+   "-Werror", 
+   "-Iinclude", 
+   "-c", 
+   "-o", 
+   "src//component/c_4801.o", 
+   "src//component/c_4801.cpp"
+  ], 
+  "file": "src//component/c_4801.cpp"
+ }
+]
